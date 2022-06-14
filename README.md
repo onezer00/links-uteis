@@ -30,3 +30,8 @@ Divirta-se!
 <td><strong>Conteúdo em português</strong></td><br>
 
 - [**@pycodebr**](https://www.instagram.com/pycodebr) - ``Conteúdo em português com exemplos de código utilizando python e assuntos relacionados ao backend.``
+
+
+## Contatos
+
+[**Meu instagram é @oner.oficial.**](https://www.instagram.com/oner.oficial)
