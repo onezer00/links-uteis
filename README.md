@@ -9,8 +9,6 @@ Divirta-se!
 
 ## <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="22" title="Instagram"> - Perfis do instagram</td>
 
----
-
 <td><strong>Frontend</strong></td><br><br>
 <td><strong>HTML5 - <img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="14" title="HTML5" /> | CSS - <img src="https://edent.github.io/SuperTinyIcons/images/svg/css3.svg" width="14" title="CSS3"/> | React - <img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="14" title="React" /> | Javascript - <img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="14" title="JavaScript" /> | Flutter - <img src="https://edent.github.io/SuperTinyIcons/images/svg/flutter.svg" width="14" title="Flutter" /></strong><br></td>
 
@@ -35,6 +33,7 @@ Divirta-se!
 
 - [**@pycodebr**](https://www.instagram.com/pycodebr) - ``Conteúdo em português com exemplos de código utilizando python e assuntos relacionados ao backend.``
 
+---
 
 ## Contatos
 
