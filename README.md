@@ -9,6 +9,8 @@ Divirta-se!
 
 ## <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="22" title="Instagram"> - Perfis do instagram</td>
 
+---
+
 <td><strong>Frontend</strong></td><br><br>
 <td><strong>HTML5 - <img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="14" title="HTML5" /> | CSS - <img src="https://edent.github.io/SuperTinyIcons/images/svg/css3.svg" width="14" title="CSS3"/> | React - <img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="14" title="React" /> | Javascript - <img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="14" title="JavaScript" /> | Flutter - <img src="https://edent.github.io/SuperTinyIcons/images/svg/flutter.svg" width="14" title="Flutter" /></strong><br></td>
 
@@ -23,6 +25,8 @@ Divirta-se!
 - [**@codewithflexz**](https://www.instagram.com/codewithflexz) - ``Conteúdo em inglês com exemplos bem legais de simple applications em flutter.``
 
 - [**@onlinetutorials_youtube**](https://www.instagram.com/onlinetutorials_youtube) - ``Conteúdo em inglês com varios exemplos de como utilizar css para criar efeitos legais.``
+
+---
 
 <td><strong>Backend</strong></td><br><br>
 
