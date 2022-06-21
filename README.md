@@ -1,4 +1,5 @@
 # LINKS ÚTEIS
+
 Este repositório foi feito para facilitar a navegação e busca por conteúdo de qualidade na área de programação.
 
 Lembre-se de curtir caso goste do conteúdo indicado, você pode contribuir com o desenvolvimento do repositório criando seu [Issue aqui](https://github.com/onezer00/links-uteis/issues).
@@ -14,15 +15,15 @@ Divirta-se!
 
 <td><strong>Conteúdo em português</strong></td><br>
 
-- [**@juliocodes**](https://www.instagram.com/p/CbtBukmFWb6) - ``Conteúdo com vários exemplos de código e animações utilizando css.``
+- [**@juliocodes**](https://www.instagram.com/p/CbtBukmFWb6) - `Conteúdo com vários exemplos de código e animações utilizando css.`
 
 <td><strong>Conteúdo em outras linguagens</strong></td><br>
 
-- [**@code.clash**](https://www.instagram.com/code.clash) - ``Conteúdo em inglês com exemplos de código e animações utilizando Javascript, CSS e React.``
+- [**@code.clash**](https://www.instagram.com/code.clash) - `Conteúdo em inglês com exemplos de código e animações utilizando Javascript, CSS e React.`
 
-- [**@codewithflexz**](https://www.instagram.com/codewithflexz) - ``Conteúdo em inglês com exemplos bem legais de simple applications em flutter.``
+- [**@codewithflexz**](https://www.instagram.com/codewithflexz) - `Conteúdo em inglês com exemplos bem legais de simple applications em flutter.`
 
-- [**@onlinetutorials_youtube**](https://www.instagram.com/onlinetutorials_youtube) - ``Conteúdo em inglês com varios exemplos de como utilizar css para criar efeitos legais.``
+- [**@onlinetutorials_youtube**](https://www.instagram.com/onlinetutorials_youtube) - `Conteúdo em inglês com varios exemplos de como utilizar css para criar efeitos legais.`
 
 ---
 
@@ -31,7 +32,23 @@ Divirta-se!
 <td><strong>Python - <img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="14" title="Python" /></strong></td><br>
 <td><strong>Conteúdo em português</strong></td><br>
 
-- [**@pycodebr**](https://www.instagram.com/pycodebr) - ``Conteúdo em português com exemplos de código utilizando python e assuntos relacionados ao backend.``
+- [**@pycodebr**](https://www.instagram.com/pycodebr) - `Conteúdo em português com exemplos de código utilizando python e assuntos relacionados ao backend.`
+
+---
+
+## Desafios Front-end
+
+- [Frontend Mentor](https://www.frontendmentor.io)
+- [100DaysOfCSSChallenge](https://100dayscss.com)
+- [Codier](https://codier.io)
+- [CSS Battle](https://cssbattle.dev/)
+- [Ace Front end](https://www.acefrontend.com/)
+
+---
+
+## Links interessantes
+
+- [Free Frontend](https://freefrontend.com)
 
 ---
 
