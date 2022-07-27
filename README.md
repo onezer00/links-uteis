@@ -34,6 +34,11 @@ Divirta-se!
 
 - [**@pycodebr**](https://www.instagram.com/pycodebr) - `Conteúdo em português com exemplos de código utilizando python e assuntos relacionados ao backend.`
 
+<td><strong>NodeJs - typescript </strong></td><br>
+<td><strong>Conteúdo em português</strong></td><br>
+
+- [**@NodeApiRest**](https://www.youtube.com/playlist?list=PLn3kOoc0oI2cQDdUEQxj75sxgRH53DmSc) - `Conteúdo em português ensinando a fazer api rest usando typescript.`
+
 ---
 
 ## Desafios Front-end
@@ -49,9 +54,13 @@ Divirta-se!
 ## Links interessantes
 
 - [Free Frontend](https://freefrontend.com)
+- [Free Desenvolvimento web](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/web_development.md)
 
 ---
 
 ## Contatos
 
 [**Meu instagram é @oner.oficial.**](https://www.instagram.com/oner.oficial)
+</br>
+
+[**Instagram do Colaborador @kooens.js**](https://www.instagram.com/kooens.js/)
